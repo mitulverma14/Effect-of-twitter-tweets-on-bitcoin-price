@@ -1,0 +1,2 @@
+# Effect-of-twitter-tweets-on-bitcoin-price
+Elmo Embedding are used to convert twitter sentiment into word embedding. Multiple machine learning models are used, both parametric and non-parametric, to select the best model for classification of sentiment into positive, negative and neutral. Elmo with SVM was considered as the final model after performing resampling and statistical test (Anova plus Tukey test). In the end linear mixed model was used to understand the effect of sentiments on bitcoin price.
